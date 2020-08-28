@@ -1,6 +1,8 @@
 # weather-app
 Weather app in ReactJS which uses Open Weather Map API for the data.
 
+[Demo](https://arpit-weather-app.netlify.app/) of the app.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
