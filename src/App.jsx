@@ -1,4 +1,4 @@
-import React, {Component, useState} from 'react';
+import React, { useState} from 'react';
 
 import './App.css';
 
@@ -19,7 +19,7 @@ function App() {
                 .then(result => {
                     setWeather(result);
                     setQuery('');
-                    console.log(result);
+                    // console.log(result);
                 }).catch(err => {
                     console.log('Error: ', err)
             });
